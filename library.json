@@ -1,0 +1,16 @@
+{
+	"name": "Queue",
+	"keywords": "queue",
+	"description": "Arduino Library for managing data with queues",
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andraz213/Queue_library"
+	},
+	"version": "0.0.1",
+	"authors": {
+		"name": "Andraž Novak",
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}
