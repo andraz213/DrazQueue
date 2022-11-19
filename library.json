@@ -7,9 +7,9 @@
 		"type": "git",
 		"url": "https://github.com/andraz213/Queue_library"
 	},
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"authors": {
-		"name": "Andraž Novak",
+		"name": "Andraz Novak",
 	},
 	"frameworks": "arduino",
 	"platforms": "*"
