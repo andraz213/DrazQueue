@@ -1,4 +1,4 @@
-Queue	KEYWORD1
+DrazQueue	KEYWORD1
 add_to_queue	KEYWORD2
 get_first_data	KEYWORD2
 get_first_size	KEYWORD2

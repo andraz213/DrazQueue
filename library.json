@@ -1,13 +1,13 @@
 {
-	"name": "Queue",
+	"name": "DrazQueue",
 	"keywords": "queue",
 	"description": "Arduino Library for managing data with queues",
 	"homepage": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/andraz213/Queue_library"
+		"url": "https://github.com/andraz213/DrazQueue"
 	},
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"authors": {
 		"name": "Andraz Novak",
 	},
